@@ -22,7 +22,7 @@ title: Khoa Nguyen
 email: khoanguyen0807@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Idk like ... I am a Data Scientist?
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/aboutme" # the subpath of your site, e.g. /blog
 url: "https:://khoa.nguyen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: khoanguyen0807
 github_username:  crimsonthinker
